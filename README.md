@@ -76,7 +76,7 @@ The notification includes:
 1. Clone the repository
 ```bash
 git clone https://github.com/tokyoundergroundbeatzmassive/automated_ai_transcription.git
-cd automated-transcriptor
+cd automated_ai_transcription
 ```
 
 2. Create and activate virtual environment
