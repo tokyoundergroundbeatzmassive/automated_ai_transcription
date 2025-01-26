@@ -75,7 +75,7 @@ The notification includes:
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/tokyoundergroundbeatzmassive/automated_ai_transcription.git
 cd automated-transcriptor
 ```
 
